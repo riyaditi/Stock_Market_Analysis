@@ -220,4 +220,4 @@ it is a **Stock Trading & Market Intelligence Platform** that demonstrates how r
 
 ### 👤 Author
 **Riya D**
-
+<img width="1536" height="1024" alt="Overview image" src="https://github.com/user-attachments/assets/5676812b-cf9b-4c66-9c66-a97faeb6bb7a" />
