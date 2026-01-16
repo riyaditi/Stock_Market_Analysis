@@ -219,5 +219,5 @@ it is a **Stock Trading & Market Intelligence Platform** that demonstrates how r
 ---
 
 ### 👤 Author
-** Riya D**
+**Riya D**
 
